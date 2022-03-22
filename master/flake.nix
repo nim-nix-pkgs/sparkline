@@ -9,7 +9,7 @@
   
   inputs.src-sparkline-master.flake = false;
   inputs.src-sparkline-master.owner = "aquilax";
-  inputs.src-sparkline-master.ref   = "refs/heads/master";
+  inputs.src-sparkline-master.ref   = "master";
   inputs.src-sparkline-master.repo  = "sparkline-nim";
   inputs.src-sparkline-master.type  = "github";
   
