@@ -51,11 +51,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1651918458,
-        "narHash": "sha256-lVtCPLkgdHLRsIsaDDicD7gJVCCoG08W0hZ/VSgMShk=",
+        "lastModified": 1652391581,
+        "narHash": "sha256-/VnQzH68Onvo9WcgvaCpE105m9oOjiUTgk0Gg7fijIE=",
         "owner": "nim-nix-pkgs",
         "repo": "sparkline",
-        "rev": "bfaabbc3c004d340c35e13f9c54621ce788667cd",
+        "rev": "3a65cc1059b4cc5826d57eb215eb83eaa4a678c8",
         "type": "github"
       },
       "original": {
